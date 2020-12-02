@@ -1,0 +1,14 @@
+.dev_titre{
+    font-size: 20px;
+    text-decoration:underline ;
+}
+
+.nom_prenom{
+    font-size: small;
+}
+
+.sous-titre{
+    font-size: x-small;
+    opacity: 0.2;
+    text-decoration-color: blue;
+}
