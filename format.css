@@ -23,15 +23,22 @@
     width: 50%;
     text-align: center;
     display: flex;
-    justify-content: center;   
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;   
 }
 
 body{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: hotpink solid;
 }
 
 .gauche{
     /* border: magenta solid; */
     width: 40%;
+    overflow-x: auto;
 }
 
 .droite{
