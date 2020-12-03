@@ -9,7 +9,7 @@
 }
 
 .information{
-    font-size: smaller;
+    font-size: 13px;
 }
 
 .sous-titres{
@@ -23,9 +23,10 @@
     width: 50%;
     text-align: center;
     display: flex;
-    justify-content: start;
-    position: absolute;
-    
+    justify-content: center;   
+}
+
+body{
 }
 
 .gauche{
