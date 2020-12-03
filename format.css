@@ -8,17 +8,35 @@
     font-size: small;
 }
 
+.information{
+    font-size: smaller;
+}
+
 .sous-titres{
     font-size: 15px;
     opacity: 0.5;
 }
+
 .conteneur{
+    background-color: lightgray;
+    border: lime 1px solid;
+    width: 50%;
+    text-align: center;
     display: flex;
     justify-content: start;
+    position: absolute;
+    
 }
+
 .gauche{
+    /* border: magenta solid; */
+    width: 40%;
 }
+
 .droite{
-    margin-left: left 20px;
-    border-left: gray solid;
+    width: 50%;
+    /* border: magenta solid; */
+    border-left: red solid;
+    margin-left: auto;
+    margin-right: auto;
 }
